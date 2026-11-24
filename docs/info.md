@@ -8,11 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+pos funciona como debe ser
 Explain how your project works
 
 ## How to test
-
+Dandole run
 Explain how to use your project
 
 ## External hardware
